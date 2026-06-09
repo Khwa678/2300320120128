@@ -1,2 +1,5 @@
 ﻿# 2300320120128
-<img width="991" height="785" alt="image" src="https://github.com/user-attachments/assets/4e6dc2e0-222f-42fb-82e0-929cbc82c881" />
+
+"clientID": "2402139f-1461-4c4b-ac9a-981a1c91907d",
+    "clientSecret": "JCEXpHnbHctGRvhy"
+}
