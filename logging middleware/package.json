@@ -1,0 +1,16 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Express logging middleware that captures request lifecycle, success, warnings, info, and error details.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "keywords": []
+}
